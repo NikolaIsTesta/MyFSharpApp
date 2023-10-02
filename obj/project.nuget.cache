@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "27qPzgW3ZC/vuZPdZf5PvkkoVwicvPXYPeSLl7AZ4hUU7INWYVODTEa2d7hgodncs46C+0QdY5aAwec2VMB+zQ==",
+  "success": true,
+  "projectFilePath": "D:\\4 curse\\OPPPO_LAB2\\MyFSharpApp\\MyFSharpApp.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\acer\\.nuget\\packages\\fsharp.core\\7.0.400\\fsharp.core.7.0.400.nupkg.sha512"
+  ],
+  "logs": []
+}

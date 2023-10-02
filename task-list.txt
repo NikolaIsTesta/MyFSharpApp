@@ -1,0 +1,19 @@
+ADD Мышки лазерная 15 1500 ACER
+ADD Мышки лазерная 15 1500 LOGITECH
+ADD Мышки лазерная 15 1500 LOGITECH
+ADD Мышки шариковая 15 1507 ACER
+ADD Мышки лазерная 15 1500 LOGITECH
+ADD Клавиатуры мембранная USB 4000 ACER
+ADD Мыxшки лазерная 15 1500 LOGITECH
+ADD Мониторы 14 10 5000 ACER
+AhhDD Мышки лазерная 15 1500 LOGITECH
+ADD Мышки шариковая 15 1508 LOGITECH
+ADD Мониторы 15 10 5600 ACER
+REM Price == 1507
+ADD Мышки шариковая 15 1507 LOGITECH
+ADD Мышки шариковая 15 15010 LOGITECH
+ADD Мышки шариковая 15 15011 hfghfg
+ADD Мышки лазерная 15 1500 LOGITECH
+ADD Мышки лазерная 15 1500 LOGITECH
+REM Firm != LOGITECH
+PRINT
